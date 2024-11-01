@@ -1,0 +1,37 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .exclude-variation-row label{
+    margin-left: 10px;
+ }
+ .wc-settings-row-wvasp-pro-link-field-wrapper {
+	opacity: 0.7;
+}
+.wc-settings-row-wvasp-pro-link-field-wrapper input {
+	opacity: 1!important;
+	background: #fff;
+	border: 1px solid #8c8f94;
+	box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+}
+.form-table .wc-settings-row-wvasp-pro-link-field-wrapper th {
+	line-height: 1.6;
+}
+.form-table .wc-settings-row-wvasp-pro-link-field-wrapper label {
+	line-height: 1.6;
+}
+.wc-settings-row-wvasp-pro-link-field-wrapper .premium-tag-link {
+	background: #EFC20F;
+	padding: 6px 10px;
+	border-radius: 5px;
+	text-decoration: none;
+	color: #000;
+	white-space: nowrap;
+}
+.wvasp-get-pro {
+	color: #93003f;
+	font-weight: bold;
+}
+input.wvasp-text-field {
+	padding: 5px 10px !important;
+}
